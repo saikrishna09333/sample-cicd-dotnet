@@ -3,10 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29021.104
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingControllersSample", "TestingControllersSample\TestingControllersSample.csproj", "{233D2105-F8BA-46CA-AF02-F8DEFF5FB54E}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestingControllersSample.Tests", "TestingControllersSample.Tests\TestingControllersSample.Tests.csproj", "{4E61D6B9-DF1C-43AE-860B-B0D81F78C93A}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreWebApplication", "NetCoreWebApplication\NetCoreWebApplication.csproj", "{C293EF79-48C9-4B7C-8505-AF4FB9A9EF45}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreMSUnitTest", "NetCoreMSUnitTest\NetCoreMSUnitTest.csproj", "{397A4635-DE23-4F4C-A380-6795ADCDDE57}"
